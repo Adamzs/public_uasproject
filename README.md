@@ -1,9 +1,9 @@
 # public_uasproject
 Drone Detection with Waggle Sensor Nodes
 
-## Investigating Drone Detection Capabilities with the Argonne Waggle Platform
+## Investigating Drone Detection Capabilities with the Argonne [Waggle](http://wa8.gl/) Platform
 
-The main research question for this project is: how effective can a low-cost distributed visual based edge computed machine learning algorithm be at autonomously detecting flying objects over a geographic region?  The project will use the Waggle based sensor nodes with a slightly upgraded camera to run custom detection algorithms in real-time.  These detection algorithms will use state-of-the-art computer vision and neural network based algorithms to detect moving objects in the sky and classify the object type.  Part of the research will include using different types of neural network modeling techniques to create the most effective classification algorithm.  It is hypothesized that using a combination of static image classification models, motion analysis and temporal based classification models will improve accuracy of classification in this “low-power” camera type node.  
+The main research question for this project is: how effective can a low-cost distributed visual based edge computed machine learning algorithm be at autonomously detecting flying objects over a geographic region?  The project will use the Waggle based sensor nodes [link](https://github.com/waggle-sensor/ "Waggle Github") with a slightly upgraded camera to run custom detection algorithms in real-time.  These detection algorithms will use state-of-the-art computer vision and neural network based algorithms to detect moving objects in the sky and classify the object type.  Part of the research will include using different types of neural network modeling techniques to create the most effective classification algorithm.  It is hypothesized that using a combination of static image classification models, motion analysis and temporal based classification models will improve accuracy of classification in this “low-power” camera type node.  
 
 ## Test Deployment for Data Collection and Algorithm Demonstration
 
