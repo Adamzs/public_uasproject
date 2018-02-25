@@ -27,5 +27,5 @@ In Phase 2b we will update the code from Phase 2a to utilize the Waggle Beehive 
 
 In Phsae 3a we will execute custom C++ code that utilizes the algorithms from 2a and adds a trained neural network model for classification of the detected objects based on the object static image and the object motion path.  This code is provided in the XXX directory of this repository.  The neural network code uses the Caffe library framework for the forwarrd-pass classification model.  
 
-### Dependencies are: ffmpeg, OpenCV compiled with OpenCL, Caffe
+### Dependencies are: ssh, scp, ffmpeg, OpenCV compiled with OpenCL, Caffe
 
