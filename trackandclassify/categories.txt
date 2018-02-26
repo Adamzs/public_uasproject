@@ -1,0 +1,7 @@
+other 0
+aircraftfixed 1
+aircraftrotor 2
+bird 3
+bug 4
+dronefixed 5
+dronerotor 6
